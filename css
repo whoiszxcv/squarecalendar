@@ -1,0 +1,35 @@
+#calendar {
+    display: inline-block;
+}
+
+#calendar td, #calendar th {
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 3px;
+    text-align: center;
+}
+
+#calendar .nav, #calendar .info {
+    text-align: center;
+}
+
+#calendar a:hover {
+    color:red
+}
+
+table thead {
+    color: coral;
+}
+
+* {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+#calendar a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    font-size: 24px;
+}
+
+ 
